@@ -22,13 +22,15 @@
 			<Comment/>
 			<DefaultForm/>
 			<AuxiliaryForm/>
-			<MainDataCompositionSchema/>
+			<MainDataCompositionSchema>ExternalReport.ТестовыйОтчет.Template.ОсновнаяСхемаКомпоновкиДанных</MainDataCompositionSchema>
 			<DefaultSettingsForm/>
 			<AuxiliarySettingsForm/>
 			<DefaultVariantForm/>
 			<VariantsStorage/>
 			<SettingsStorage/>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+			<Template>ОсновнаяСхемаКомпоновкиДанных</Template>
+		</ChildObjects>
 	</ExternalReport>
 </MetaDataObject>
